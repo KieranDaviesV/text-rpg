@@ -1,0 +1,18 @@
+Apple true false 0 10
+A small green apple, refreshing!
+Sword false true 15 0
+A bronze sword for a mighty warrior
+Knife false true 10 0
+A small sharp knife, wonder if the chef is looking for this
+Potion true false 0 25
+A small vial inside is a green sludge, looks gross!
+Potion true false 0 -15
+A small vial inside is a beautiful looking syrup
+Meat true false 0 50
+Some fresh meat
+Shield false true 5 5
+A shield which gives a bonus to health and damage
+Fruits true false 0 15
+A bundle of fruits
+2hSword false true 35 0
+A 2handed sword, you can only just carry it!

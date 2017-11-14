@@ -1,0 +1,30 @@
+battle room
+after falling down a hole you're in some sort of monster cave
+true false false true
+long corridor
+long dark corridor all the windows seem to be broken
+true true false false
+small room
+the light in this room is dark but the smell of sewage is strong
+true true true true
+closet
+a small closet, oh wait you find a hidden door
+true false false false
+kitchen
+a large kitchen with the head of the long beloved king still freshly cut of his head
+true false false true
+battle room
+a well lit room with some sort of creature in the corner
+true true true true
+battle room
+slime is running off the wall, is there something in the corner?
+true false false false
+courtyard
+theres a dead tree in the centre, i'd go back inside before you freeze too
+false false false true
+bedroom
+a large unmade bed, is there a hidden door underneath it?
+true true false false
+battle room
+another battleroom you must fight on.
+true true true true

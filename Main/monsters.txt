@@ -1,0 +1,10 @@
+Cat 4 3
+Dog 6 8
+Vampire 3 20
+Man 4 4
+Bear 20 8
+Zombie 15 8
+gruffalo 20 20
+unicorn 1 1
+Gangster 25 5
+rhino 5 35
